@@ -50,6 +50,7 @@ http://localhost:3000/
 - [ ] Deixar o login e Cadastro funcional
 - [ ] Integração da IA (Inteligencia Artifial) para que as peças selecionadas sejam comparadas se são compativeis, utilizar da API [OpenAI](!https://platform.openai.com/docs/quickstart)
 - [ ] Criar a pagina para verificar as simulações de Montagens salvas
+- [ ] Adicionar a pesquisa dos produtos
 
 ## Protótipo 
 
