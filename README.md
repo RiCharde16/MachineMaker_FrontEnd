@@ -1,4 +1,4 @@
-## MachineMaker
+# MachineMaker Front End
 
 Esta e a aplicação do Front-End do nosso trabalho criado em React JS, neste repositorio se encontra o codigo base para as telas assim como o link para o prototipo no Figma.
 
